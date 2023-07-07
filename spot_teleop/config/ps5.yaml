@@ -1,0 +1,19 @@
+axis_linear_x: 1
+axis_linear_y: 0
+axis_angular: 2
+
+base_deadman: 6
+power_on: 5
+power_off: 7
+stand: 3
+sit: 1
+
+operating_deadman: 4
+stair_mode: 0
+walk_mode: 2
+speed_up: 3        # Speed increased by 20%
+speed_down: 1      # Speed decreased by 20%
+
+max_linear_x: 1.0
+max_linear_y: 0.5
+max_angular: 1.5
